@@ -26,3 +26,4 @@ The video that I followed to creat this was the [Code Asteroids in JavaScript (1
 ### What is in the future for this project: 
 - Adding music and soundeffects.
 - Adding a database for login/saving highscores and comparing them with others.
+- Fixing the folders, and adding indepentent folders for styling and JavaScript
